@@ -10,6 +10,7 @@ namespace DSA.Console
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }

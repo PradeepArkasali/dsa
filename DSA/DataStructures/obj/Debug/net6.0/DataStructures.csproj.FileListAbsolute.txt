@@ -1,0 +1,12 @@
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\bin\Debug\net6.0\DataStructures.deps.json
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\bin\Debug\net6.0\DataStructures.dll
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\bin\Debug\net6.0\DataStructures.pdb
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\obj\Debug\net6.0\DataStructures.csproj.AssemblyReference.cache
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\obj\Debug\net6.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfoInputs.cache
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfo.cs
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\obj\Debug\net6.0\DataStructures.csproj.CoreCompileInputs.cache
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\obj\Debug\net6.0\DataStructures.dll
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\obj\Debug\net6.0\refint\DataStructures.dll
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\obj\Debug\net6.0\DataStructures.pdb
+F:\Pradeep\Prep\DsaAlgo\DSA\DataStructures\obj\Debug\net6.0\ref\DataStructures.dll
